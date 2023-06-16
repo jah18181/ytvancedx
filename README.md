@@ -5,7 +5,7 @@ Another YouTube Vanced Unofficial project maintained by Cuynu
 <img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
 </a>
 
-## This project has been discontinued, [View details.](https://github.com/cuynu/ytvanced/discussions/205)
+# This project has been discontinued, [View details.](https://github.com/cuynu/ytvanced/discussions/205)
 
 Total download counts :
 
@@ -17,6 +17,8 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedup
 
 
 # Download 
+
+## Before download, you should know this project has been discontinued, [View details.](https://github.com/cuynu/ytvanced/discussions/205)
 
 > **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6.0 and 7.0 for version [17.39.35](https://github.com/cuynu/ytvanced/wiki/17.39.35-(Android-6-&-7)) or older)
 
