@@ -22,7 +22,7 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedup
 
 > **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6.0 and 7.0 for version [17.39.35](https://github.com/cuynu/ytvanced/wiki/17.39.35-(Android-6-&-7)) or older)
 
-> Architecture : arm64-v8a, armeabi-v7a, x86, x86_64 (Universal)
+> Architecture : arm64-v8a, armeabi-v7a, x86, x86_64 (Universal), click [here to download variant](https://github.com/cuynu/ytvanced/wiki/arch_split) for separate architecture
 
 > Theme : Black, Dark and Monet theme, Monet theme only can install on Android 12 and above!
 
