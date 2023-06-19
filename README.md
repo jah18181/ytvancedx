@@ -22,7 +22,7 @@ Another YouTube Vanced Unofficial project maintained by [Cuynu](https://github.c
 * [Credits](#credits)
 * [Features](#features)
 * [Known issues](#known-issues)
-* [Download](#download)
+* [Download pre-bulit apk](#download)
 * [Older version](#oldoutdated-version)
 * [Vanced for Android Head Unit Car](#for-android-car-screen-not-android-auto)
 * [Troubleshoot](#troubleshoot)
