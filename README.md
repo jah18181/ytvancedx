@@ -5,22 +5,55 @@ Another YouTube Vanced Unofficial project maintained by Cuynu
 <img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
 </a>
 
-# This project has been discontinued, [View details.](https://github.com/cuynu/ytvanced/discussions/205)
+</p>
 
-Total download counts :
+<p align="left">
+    <a href="https://github.com/cuynu/ytvanced/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/cuynu/ytvanced?color=brightgreen&label=Latest%20release" alt="Badge"></img></a>
+    <a href="https://github.com/cuynu/ytvanced/releases/latest"><img src="https://img.shields.io/github/downloads/cuynu/ytvanced/total?label=Download" alt="Badge"></img></a>
+    <a href="https://github.com/cuynu/ytvanced/issues"><img src="https://custom-icon-badges.demolab.com/github/issues-raw/cuynu/ytvanced?logo=issue-opened&label=Issues" alt="Badge"></img></a>
 
-[![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=githubcolor=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/cuynu/ytvanced#download)
+<p align="left">
+   <img src="https://img.shields.io/github/stars/cuynu/ytvanced?style=social" alt="Badge"/>
+   <img src="https://img.shields.io/github/forks/cuynu/ytvanced?style=social" alt="Badge"/>
+</p>
 
-Worry about malware,backdoor or keylogger? [See VirusTotal scan results](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
+## Table of Contents (Quick navigation)
 
+* [Credits](#credits)
+* [Features](#features)
+* [Known issues](#known-issues)
+* [Download](#download)
+* [Older version](#oldoutdated-version)
+* [Vanced for Android Head Unit Car](#for-android-car-screen-not-android-auto)
+* [Troubleshoot](#troubleshoot)
+* [Source code](#source-code)
+* [Stargazers over time](stargazers-over-time)
+
+# Features 
+
+- YouTube Vanced blocks ads from YouTube and uses SponsorBlock to skip in-video sponsor segments
+- The picture-in-picture mode allows watching videos in a floating window
+- Background play allows playing video sound in background
+- Forced VP9 codec
+- Override max resolution
+- Swipe control for brightness and volume
+- Google login like the original YouTube app using MicroG
+- Dislike counter re-added using the Return YouTube Dislike database
+- Disable YouTube Shorts function
+- Enable old layout of YouTube
+- Download videos from YouTube using external downloader app
+- Custom video speed
+- Enable YouTube Premium header (not actually enable Premium features!)
+- Many more...
+
+# Telegram channel
 Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-
 
 # Download 
 
 ## Before download, you should know this project has been discontinued, [View details.](https://github.com/cuynu/ytvanced/discussions/205)
 
-> **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6.0 and 7.0 for version [17.39.35](https://github.com/cuynu/ytvanced/wiki/17.39.35-(Android-6-&-7)) or older)
+> **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6 & 7 for version [17.39.35](https://github.com/cuynu/ytvanced/wiki/17.39.35-(Android-6-&-7)) or older)
 
 > Architecture : arm64-v8a, armeabi-v7a, x86, x86_64 (Universal), click [here to download variant](https://github.com/cuynu/ytvanced/wiki/arch_split) for separate architecture
 
@@ -124,6 +157,14 @@ https://github.com/cuynu/oldvanced-patches-rvx
 
 https://github.com/cuynu/oldvanced-integrations-rvx
 
+### Known issues 
+
+- Chromecast v2 casting does not works on non-root variant due to Vanced microG
+- In-app purchases can't be processed on non-root variant
+- Protobuf spoof option (buffering issue fix solution) not work for some users
+- Random crash on some Android 9,10 device using Unisoc SC9863A processsor
+- App might crash if open video description that contain YouTube link on 17.39.35 for Android 6 & 7 
+
 ### Troubleshoot 
 
 > If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvanced/issues)
@@ -165,7 +206,7 @@ For older version :
 If you can't install YouTube Vanced in MIUI, try turn off MIUI Optimization in Developer options then try install again.
 
 
-# Credits :
+# Credits
 
 [Team Vanced](https://github.com/TeamVanced) : Old YouTube Vanced official which is closed source
 
