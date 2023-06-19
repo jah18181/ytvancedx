@@ -27,7 +27,7 @@ Another YouTube Vanced Unofficial project maintained by Cuynu
 * [Vanced for Android Head Unit Car](#for-android-car-screen-not-android-auto)
 * [Troubleshoot](#troubleshoot)
 * [Source code](#source-code)
-* [Stargazers over time](stargazers-over-time)
+* [Stargazers over time](#stargazers-over-time)
 
 # Features 
 
