@@ -153,6 +153,9 @@ DO NOT INSTALL ON REGULAR ANDROID DEVICE.
 ____________________________________________________
 
 ### Source code
+
+**Official YouTube app itself are proprietary and closed source, we can't access YouTube source code because its are private which only Google/YouTube engineer developer can see and modify it. So we can only patch and modify YouTube from published apk. Here is source code for modified classes dexs and additional modification/features:**
+
 https://github.com/cuynu/oldvanced-patches-rvx
 
 https://github.com/cuynu/oldvanced-integrations-rvx
