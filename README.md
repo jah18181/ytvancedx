@@ -165,6 +165,8 @@ https://github.com/cuynu/oldvanced-integrations-rvx
 - Chromecast v2 casting does not works on non-root variant due to Vanced microG
 - In-app purchases can't be processed on non-root variant
 - Protobuf spoof option (buffering issue fix solution) not work for some users
+- Videos from creators that have Audio tracks are extreme slowly to load and can play only in 720p
+- Audio tracks selector does not work
 - Random crash on some Android 9,10 device using Unisoc SC9863A processsor
 - App might crash if open video description that contain YouTube link on 17.39.35 for Android 6 & 7 
 
