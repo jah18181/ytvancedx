@@ -51,7 +51,9 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedup
 
 # Download 
 
-## Before download, you should know this project has been discontinued, [View details.](https://github.com/cuynu/ytvanced/discussions/205)
+### It is recommend to switch to [ReVanced/RVX](https://revanced.app), this client will gone after 2024!
+
+#### Before download, you should know this project has been discontinued, [View details.](https://github.com/cuynu/ytvanced/discussions/205)
 
 > **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6 & 7 for version [17.39.35](https://github.com/cuynu/ytvanced/wiki/17.39.35-(Android-6-&-7)) or older)
 
