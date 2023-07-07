@@ -8,9 +8,11 @@ Another YouTube Vanced Unofficial project maintained by [Cuynu](https://github.c
 </p>
 
 <p align="left">
-    <a href="https://github.com/cuynu/ytvanced/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/cuynu/ytvanced?color=brightgreen&label=Latest%20release" alt="Badge"></img></a>
-    <a href="https://github.com/cuynu/ytvanced/releases/latest"><img src="https://img.shields.io/github/downloads/cuynu/ytvanced/total?label=Download" alt="Badge"></img></a>
-    <a href="https://github.com/cuynu/ytvanced/issues"><img src="https://custom-icon-badges.demolab.com/github/issues-raw/cuynu/ytvanced?logo=issue-opened&label=Issues" alt="Badge"></img></a>
+    <a href="https://github.com/cuynu/ytvanced"><img src="https://img.shields.io/github/downloads/cuynu/archive/total?label=View counts&logo=android&logoColor=%23fff&style=for-the-badge" alt="Badage"></img></a>
+    <p>
+    <a href="https://github.com/cuynu/ytvanced/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/cuynu/ytvanced?color=brightgreen&label=Latest%20release&logo=android&logoColor=%23fff&style=for-the-badge" alt="Badge"></img></a>
+    <a href="https://github.com/cuynu/ytvanced/releases/latest"><img src="https://img.shields.io/github/downloads/cuynu/ytvanced/total?label=Download&logo=android&logoColor=%23fff&style=for-the-badge" alt="Badge"></img></a>
+    <a href="https://github.com/cuynu/ytvanced/issues"><img src="https://custom-icon-badges.demolab.com/github/issues-raw/cuynu/ytvanced?logo=issue-opened&label=Issues&logo=android&logoColor=%23fff&style=for-the-badge" alt="Badge"></img></a>
 
 <p align="left">
    <img src="https://img.shields.io/github/stars/cuynu/ytvanced?style=social" alt="Badge"/>
