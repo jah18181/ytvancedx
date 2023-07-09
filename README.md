@@ -19,7 +19,7 @@ Another YouTube Vanced Unofficial project maintained by [Cuynu](https://github.c
    <img src="https://img.shields.io/github/forks/cuynu/ytvanced?style=social" alt="Badge"/>
 </p>
 
-## Table of Contents (Quick navigation)
+## Table of Contents (Quick navigation) 
 
 * [Credits](#credits)
 * [Features](#features)
