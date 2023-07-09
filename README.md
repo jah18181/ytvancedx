@@ -49,7 +49,7 @@ Another YouTube Vanced Unofficial project maintained by [Cuynu](https://github.c
 - Many more...
 
 # Telegram channel
-Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedxupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a> 
 
 # Download 
 
