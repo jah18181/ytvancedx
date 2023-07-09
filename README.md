@@ -71,18 +71,10 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedxu
 
 **YouTube Vanced/YouTube Vanced+ non-root variant** : 
 
-Stable version is : 18.21.34
+Stable version is : 18.02.33
 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.21.34)
 
 **Video playback freeze or buffering?, see [video playback buffer fix solution and troubleshoots](https://github.com/cuynu/ytvanced#troubleshoot).**
-
-#### 18.21.34 IS LAST VERSION FOR ALL, UNLESS I CAN DEVELOP OWN PATCH!
-
-[Download YouTube Vanced+ version 18.21.34 Black](https://github.com/cuynu/ytvanced/releases/download/18.21.34/YouTube.Vanced+.v18.21.34_Black_Universal_bye.apk)
-
-[Download YouTube Vanced+ version 18.21.34 Dark](https://github.com/cuynu/ytvanced/releases/download/18.21.34/YouTube.Vanced+.v18.21.34_Dark_Universal_bye.apk)
-
-[Download YouTube Vanced+ version 18.21.34 Monet (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/18.21.34/YouTube.Vanced+.v18.21.34_Monet_Universal_bye.apk)
 
 [Download YouTube Vanced Unofficial version 18.02.33 Black hotfix](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_Universal_hotfix.apk)
 
