@@ -46,4 +46,9 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedxu
 
 # Download 
 
-# ALL release has been removed as request from ReVanced Extended community. USE REVANCED or WAIT FOR VANCED+ to be implemented
+## ALL release has been removed from repository as request from ReVanced Extended community. USE REVANCED or WAIT FOR VANCED+ to be implemented, below are temporary link, its can get taken down anytime.
+
+Temporary download link : 
+[Download Vanced MicroG latest](https://github.com/cuynu/VancedMicroG/releases/latest/download/microg.apk)
+
+[Download Vanced 18.21.34 (Temporary drive link)](https://drive.google.com/file/d/1FgzJuR4QeNsTQHFQbYGY1zsF_0Vnxx4h/view?usp=sharing)
