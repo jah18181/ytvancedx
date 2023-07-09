@@ -82,12 +82,6 @@ Stable version is : 18.02.33
 
 [Download YouTube Vanced Unofficial version 18.02.33 Monet theme hotfix (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Monet_Universal_hotfix.apk)
 
-[Download YouTube Vanced Unofficial version 18.01.38 Black](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Black_Universal.apk)
-
-[Download YouTube Vanced Unofficial version 18.01.38 Dark](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Dark_Universal.apk)
-
-[Download YouTube Vanced Unofficial version 18.01.38 Monet theme (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Monet_Universal.apk)
-
 [Download YouTube Vanced Unofficial version 17.39.35 (for Android 6 & 7)](https://github.com/cuynu/ytvanced/wiki/17.39.35-(Android-6-&-7))
 
 [Download YouTube Vanced for Android car screen](https://github.com/cuynu/ytvanced#for-android-car-screen-not-android-auto)
