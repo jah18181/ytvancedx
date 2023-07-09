@@ -46,4 +46,4 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedxu
 
 # Download 
 
-# ALL release has been removed as request from ReVacned Extended community. USE REVANCED or WAIT FOR VANCED+ to be implemented
+# ALL release has been removed as request from ReVanced Extended community. USE REVANCED or WAIT FOR VANCED+ to be implemented
