@@ -1,5 +1,5 @@
-# YouTube Vanced
-YouTube Vanced Unofficial project
+# YouTube Vanced RVX
+YouTube Vanced Unofficial project based on ReVanced Extended project
 
 <a href="https://github.com/cuynu/ytvanced#download">
 <img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
