@@ -51,4 +51,4 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedxu
 Temporary download link : 
 [Download Vanced MicroG latest](https://github.com/cuynu/VancedMicroG/releases/latest/download/microg.apk)
 
-[Download Vanced 18.21.34 (Temporary drive link)](https://drive.google.com/file/d/1FgzJuR4QeNsTQHFQbYGY1zsF_0Vnxx4h/view?usp=sharing)
+[Download Vanced 18.02.33 (Temporary drive link)](https://drive.google.com/file/d/1FgzJuR4QeNsTQHFQbYGY1zsF_0Vnxx4h/view?usp=sharing)
