@@ -48,7 +48,7 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedxu
 
 ### ALL release has been removed from repository as request from ReVanced Extended community. USE REVANCED or WAIT FOR VANCED+ to be implemented, below are temporary link, its can get taken down anytime.
 
-### THIS NOT A OFFICIAL PROJECT OF VANCED, ITS WAS RELEASED UNOFFICIALLY AND BASED ON REVANCED EXTENDED PATCHES. THIS UNOFFICIAL PROJECT ALSP HAS BEEN DISCONTINUED.
+### THIS NOT A OFFICIAL PROJECT OF VANCED, ITS WAS RELEASED UNOFFICIALLY AND BASED ON REVANCED EXTENDED PATCHES. THIS UNOFFICIAL PROJECT HAS BEEN DISCONTINUED.
 
 Temporary download link : 
 [Download Vanced MicroG latest](https://github.com/cuynu/VancedMicroG/releases/latest/download/microg.apk)
