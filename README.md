@@ -1,5 +1,5 @@
-# YouTube Vanced RVX
-YouTube Vanced Unofficial project based on ReVanced Extended project
+# YouTube Vanced
+YouTube Vanced Unofficial project
 
 <a href="https://github.com/cuynu/ytvanced#download">
 <img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
@@ -46,11 +46,13 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedxu
 
 # Download 
 
+## Notice : Vanced Extended & Vanced has been discontinued and replaced with ReVanced/ReVanced Extended, so if this release won't work, you have switch to ReVanced/ReVanced Extended!
+
+Join ReVanced Extended Chat group</p> <a href="https://telegram.me/revanced_extended_chat" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a> 
+
 ### YouTube Vanced non-root variant
 
 [Download Vanced MicroG latest](https://github.com/cuynu/VancedMicroG/releases/latest/download/microg.apk)
-
-[Download Vanced RVX 18.02.33 (Temporary drive link)](https://drive.google.com/file/d/1FgzJuR4QeNsTQHFQbYGY1zsF_0Vnxx4h/view?usp=sharing)
 
 [Download YouTube Vanced 17.33.42 Black](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Universal.apk)
 
@@ -61,3 +63,7 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedxu
 [Download YouTube Vanced 17.33.42 Black Magisk Module](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)
 
 [Download YouTube Vanced 17.33.42 Dark Magisk Module](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)
+
+# Credits
+
+- inotia00 : build & provide vanced extended builds
