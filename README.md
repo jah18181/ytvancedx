@@ -46,11 +46,18 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedxu
 
 # Download 
 
-### ALL release has been removed from repository as [request from ReVanced Extended community](https://t.me/rvx_ot/2651) . USE REVANCED or WAIT FOR VANCED+ to be implemented, below are temporary link, its can get taken down anytime.
+### YouTube Vanced non-root variant
 
-### THIS NOT A OFFICIAL PROJECT OF VANCED, ITS WAS RELEASED UNOFFICIALLY AND BASED ON REVANCED EXTENDED PATCHES. THIS UNOFFICIAL PROJECT HAS BEEN DISCONTINUED.
-
-Temporary download link : 
 [Download Vanced MicroG latest](https://github.com/cuynu/VancedMicroG/releases/latest/download/microg.apk)
 
 [Download Vanced RVX 18.02.33 (Temporary drive link)](https://drive.google.com/file/d/1FgzJuR4QeNsTQHFQbYGY1zsF_0Vnxx4h/view?usp=sharing)
+
+[Download YouTube Vanced 17.33.42 Black](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Universal.apk)
+
+[Download YouTube Vanced 17.33.42 Dark](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Universal.apk)
+
+### YouTube Vanced root variant 
+
+[Download YouTube Vanced 17.33.42 Black Magisk Module](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)
+
+[Download YouTube Vanced 17.33.42 Dark Magisk Module](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)
