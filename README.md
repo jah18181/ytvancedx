@@ -1,22 +1,22 @@
 # YouTube Vanced+ [IN DEVELOPMENT]
 Another YouTube Vanced Unofficial project named YouTube Vanced+ [IN DEVELOPMENT] maintained by [Cuynu](https://github.com/cuynu)
 
-<a href="https://github.com/cuynu/ytvanced#download">
+<a href="https://github.com/cuynu/ytvancedx#download">
 <img alt="YouTube Vanced+ logo" src="https://github.com/cuynu/archive/releases/download/vancedx/vancedx_banner.jpeg" width="270" height="150" />
 </a>
 
 </p>
 
 <p align="left">
-    <a href="https://github.com/cuynu/ytvanced"><img src="https://img.shields.io/github/downloads/cuynu/archive/total?label=View counts&logoColor=%23fff&style=for-the-badge" alt="Badage"></img></a>
+    <a href="https://github.com/cuynu/ytvancedx"><img src="https://img.shields.io/github/downloads/cuynu/archive/total?label=View counts&logoColor=%23fff&style=for-the-badge" alt="Badage"></img></a>
     <p>
-    <a href="https://github.com/cuynu/ytvanced/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/cuynu/ytvanced?color=brightgreen&label=Latest%20release&logo=android&logoColor=%23fff&style=for-the-badge" alt="Badge"></img></a>
-    <a href="https://github.com/cuynu/ytvanced#download"><img src="https://img.shields.io/github/downloads/cuynu/ytvanced/total?label=Download&logo=android&logoColor=%23fff&style=for-the-badge" alt="Badge"></img></a>
-    <a href="https://github.com/cuynu/ytvanced/issues"><img src="https://custom-icon-badges.demolab.com/github/issues-raw/cuynu/ytvanced?logo=issue-opened&label=Issues&logoColor=%23fff&style=for-the-badge" alt="Badge"></img></a>
+    <a href="https://github.com/cuynu/ytvancedx/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/cuynu/ytvancedx?color=brightgreen&label=Latest%20release&logo=android&logoColor=%23fff&style=for-the-badge" alt="Badge"></img></a>
+    <a href="https://github.com/cuynu/ytvancedx#download"><img src="https://img.shields.io/github/downloads/cuynu/ytvancedx/total?label=Download&logo=android&logoColor=%23fff&style=for-the-badge" alt="Badge"></img></a>
+    <a href="https://github.com/cuynu/ytvancedx/issues"><img src="https://custom-icon-badges.demolab.com/github/issues-raw/cuynu/ytvancedx?logo=issue-opened&label=Issues&logoColor=%23fff&style=for-the-badge" alt="Badge"></img></a>
 
 <p align="left">
-   <img src="https://img.shields.io/github/stars/cuynu/ytvanced?style=social" alt="Badge"/>
-   <img src="https://img.shields.io/github/forks/cuynu/ytvanced?style=social" alt="Badge"/>
+   <img src="https://img.shields.io/github/stars/cuynu/ytvancedx?style=social" alt="Badge"/>
+   <img src="https://img.shields.io/github/forks/cuynu/ytvancedx?style=social" alt="Badge"/>
 </p>
 
 ## Table of Contents (Quick navigation) 
@@ -72,7 +72,7 @@ Join ReVanced Extended Chat group</p> <a href="https://telegram.me/revanced_exte
 **[Download YouTube Vanced 17.33.42 Dark Magisk Module](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)**
 
 ### YouTube Vanced+ DEVELOPMENT variant : 
-**[Download YouTube Vanced+ 18.28.33 DEVELOPMENT TESTING](https://github.com/cuynu/ytvanced/releases/download/18.28.33/YouTube.Vanced+.v18.28.33_DEBUGTEST.apk)**
+**[Download YouTube Vanced+ 18.28.33 DEVELOPMENT TESTING](https://github.com/cuynu/ytvancedx/releases/download/18.28.33/YouTube.Vanced+.v18.28.33_DEBUGTEST.apk)**
 
 ### Download archived release (RVX)
 
@@ -100,7 +100,7 @@ Join ReVanced Extended Chat group</p> <a href="https://telegram.me/revanced_exte
 
 **Official YouTube app itself are proprietary and closed source, we can't access YouTube source code because its are private which only Google/YouTube developer can see and modify it. So we can only patch and modify YouTube from published apk. Here is source code for modified dalvik classes dexs and additional modification/features:**
 
-**Warning : Repository : [ytvanced](https://github.com/cuynu/ytvanced) does not store Vanced+ source code !**
+**Warning : Repository : [ytvancedx](https://github.com/cuynu/ytvancedx) does not store Vanced+ source code !**
 
 #### [View source code of YouTube Vanced+](https://github.com/cuynu/youtube)
 
@@ -110,6 +110,7 @@ Join ReVanced Extended Chat group</p> <a href="https://telegram.me/revanced_exte
 
 - Chromecast v2 casting does not works on non-root variant due to Vanced microG
 - In-app purchases can't be processed on non-root variant
+- 18.28.33 DEVELOPMENT variant are crashing and doesnt work
 
 ### Troubleshoot 
 
