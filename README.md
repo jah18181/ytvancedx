@@ -21,6 +21,7 @@ Another YouTube Vanced Unofficial project named YouTube Vanced+ [IN DEVELOPMENT]
 
 ## Table of Contents (Quick navigation) 
 
+* [Credits](#credits)
 * [Features](#features)
 * [Known issues](#known-issues)
 * [Download YouTube Vanced apk](#download)
@@ -99,6 +100,8 @@ Join ReVanced Extended Chat group</p> <a href="https://telegram.me/revanced_exte
 
 **Official YouTube app itself are proprietary and closed source, we can't access YouTube source code because its are private which only Google/YouTube developer can see and modify it. So we can only patch and modify YouTube from published apk. Here is source code for modified dalvik classes dexs and additional modification/features:**
 
+**Warning : Repository : [ytvanced](https://github.com/cuynu/ytvanced) does not store Vanced+ source code !**
+
 #### [View source code of YouTube Vanced+](https://github.com/cuynu/youtube)
 
 #### [View source code of old YouTube Vanced (RVX)](https://github.com/cuynu/oldvanced-patches-rvx)
@@ -166,3 +169,5 @@ If you can't install YouTube Vanced+ in MIUI, try turn off MIUI Optimization in 
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/cuynu/ytvancedx.svg)](https://starchart.cc/cuynu/ytvancedx)
+
+## [Go back to top of this page](#youtube-vanced-in-development)
