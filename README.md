@@ -1,8 +1,8 @@
-# YouTube Vanced
-YouTube Vanced Unofficial project
+# YouTube Vanced+ [IN DEVELOPMENT]
+Another YouTube Vanced Unofficial project named YouTube Vanced+ [IN DEVELOPMENT] maintained by [Cuynu](https://github.com/cuynu)
 
 <a href="https://github.com/cuynu/ytvanced#download">
-<img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
+<img alt="YouTube Vanced+ logo" src="https://github.com/cuynu/archive/releases/download/vancedx/vancedx_banner.jpeg" width="270" height="150" />
 </a>
 
 </p>
@@ -24,8 +24,8 @@ YouTube Vanced Unofficial project
 * [Features](#features)
 * [Known issues](#known-issues)
 * [Download YouTube Vanced apk](#download)
-* [Download YouTube Vanced+ Test variant](#youtube-vanced-test-variant-)
-* [Download YouTube Vanced RVX archived release](#download-archived-release-rvx)
+* [Download YouTube Vanced+ DEVELOPMENT variant](#youtube-vanced-test-variant-)
+* [Download YouTube Vanced RVX archived release](#youtube-vanced-development-variant-)
 * [Troubleshoot](#troubleshoot)
 * [Source code](#source-code)
 * [Stargazers over time](#stargazers-over-time)
@@ -58,20 +58,20 @@ Join ReVanced Extended Chat group</p> <a href="https://telegram.me/revanced_exte
 
 ### YouTube Vanced non-root variant
 
-[Download latest version of Vanced MicroG](https://github.com/cuynu/VancedMicroG/releases/latest/download/microg.apk)
+**[Download latest version of Vanced MicroG](https://github.com/cuynu/VancedMicroG/releases/latest/download/microg.apk)**
 
-[Download YouTube Vanced 17.33.42 Black](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Universal.apk)
+**[Download YouTube Vanced 17.33.42 Black](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Universal.apk)**
 
-[Download YouTube Vanced 17.33.42 Dark](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Universal.apk)
+**[Download YouTube Vanced 17.33.42 Dark](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Universal.apk)**
 
 ### YouTube Vanced root variant 
 
-[Download YouTube Vanced 17.33.42 Black Magisk Module](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)
+**[Download YouTube Vanced 17.33.42 Black Magisk Module](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)**
 
-[Download YouTube Vanced 17.33.42 Dark Magisk Module](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)
+**[Download YouTube Vanced 17.33.42 Dark Magisk Module](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)**
 
-### YouTube Vanced+ TEST variant : 
-[Download YouTube Vanced+ 18.28.33 Testing version](https://github.com/cuynu/ytvanced/releases/download/18.28.33/YouTube.Vanced+.v18.28.33_DEBUGTEST.apk)
+### YouTube Vanced+ DEVELOPMENT variant : 
+**[Download YouTube Vanced+ 18.28.33 DEVELOPMENT TESTING](https://github.com/cuynu/ytvanced/releases/download/18.28.33/YouTube.Vanced+.v18.28.33_DEBUGTEST.apk)**
 
 ### Download archived release (RVX)
 
@@ -110,7 +110,7 @@ Join ReVanced Extended Chat group</p> <a href="https://telegram.me/revanced_exte
 
 ### Troubleshoot 
 
-> If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvancedx/issues)
+> If these solution isn't fix your problem, please create issues **[here.](https://github.com/cuynu/ytvancedx/issues)**
 
 **Video playback not working (buffer issue)**
 
@@ -150,17 +150,17 @@ If you can't install YouTube Vanced+ in MIUI, try turn off MIUI Optimization in 
 
 # Credits
 
-[Team Vanced](https://github.com/TeamVanced) : Old YouTube Vanced official which is closed source
+**[Team Vanced](https://github.com/TeamVanced)** : Old YouTube Vanced official which is closed source
 
-[ApkTool](https://ibotpeaches.github.io/Apktool/) : Reverse Engineering tool
+**[ApkTool](https://ibotpeaches.github.io/Apktool/)** : Reverse Engineering tool
 
-Android Studio/IntelliJ IDEA : IDE to code and implement YouTube Vanced+ 
+**Android Studio/IntelliJ IDEA : IDE to code and implement YouTube Vanced+**
 
-[28Tech](https://www.youtube.com/playlist?list=PLux-_phi0Rz2TB5D16sJzy3MgOht3IlND) : Help me learn C programming language to know the basic things of programming language
+**[28Tech](https://www.youtube.com/playlist?list=PLux-_phi0Rz2TB5D16sJzy3MgOht3IlND)** : Help me learn C programming language to know the basic things of programming language
 
-[Gà Lại Lập Trình](https://www.youtube.com/@GaLaiLapTrinh/playlists) : Help me learn Java and Kotlin programming language used to implement YouTube Vanced+ and other Android apps
+**[Gà Lại Lập Trình](https://www.youtube.com/@GaLaiLapTrinh/playlists)** : Help me learn Java and Kotlin programming language used to implement YouTube Vanced+ and other Android apps
 
-[inotia00](https://github.com/inotia00) : Old YouTube Vanced (RVX) based patches (17.34.36-18.21.34)
+**[inotia00](https://github.com/inotia00)** : Old YouTube Vanced (RVX) based patches (17.34.36-18.21.34)
 
 
 ## Stargazers over time
