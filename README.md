@@ -31,9 +31,12 @@ Another YouTube Vanced Unofficial project named YouTube Vanced+ [IN DEVELOPMENT]
 * [Source code](#source-code)
 * [Stargazers over time](#stargazers-over-time)
 
-# Features 
+# Introduction 
+This project was created after discontinuation of Vanced official aswell wars between Unofficial Vanced and ReVanced Extended. Its not `YouTube Vanced` and just is the CLONE of `YouTube Vanced`. The project are in development and will going release soon as possible!
 
-- YouTube Vanced blocks ads from YouTube and uses SponsorBlock to skip in-video sponsor segments
+# Features 
+- Same as Official `YouTube Vanced`
+- YouTube Vanced+ blocks ads from YouTube and uses SponsorBlock to skip in-video sponsor segments
 - The picture-in-picture mode allows watching videos in a floating window
 - Background play allows playing video sound in background
 - Forced VP9 codec
