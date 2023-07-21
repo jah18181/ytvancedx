@@ -46,7 +46,7 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedxu
 
 # Download 
 
-## Notice : Vanced Extended & Vanced has been discontinued and replaced with ReVanced/ReVanced Extended, so if this release won't work, you have switch to ReVanced/ReVanced Extended!
+### Notice : Vanced Extended & Vanced has been discontinued and replaced with ReVanced/ReVanced Extended, so if this release won't work, you have switch to ReVanced/ReVanced Extended!
 
 Join ReVanced Extended Chat group</p> <a href="https://telegram.me/revanced_extended_chat" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a> 
 
@@ -64,6 +64,29 @@ Join ReVanced Extended Chat group</p> <a href="https://telegram.me/revanced_exte
 
 [Download YouTube Vanced 17.33.42 Dark Magisk Module](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)
 
+### YouTube Vanced+ test variant : 
+[Download YouTube Vanced+ 18.28.33 Testing version](https://github.com/cuynu/ytvanced/releases/download/18.28.33/YouTube.Vanced+.v18.28.33_DEBUGTEST.apk)
+
+### Download archived release (RVX)
+
+**[YouTube Vanced 18.21.34 (LAST) (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/18.21.34)**
+
+**[YouTube Music Vanced 5.39.52 (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/5.39.52)**
+
+**[YouTube Vanced 18.02.33 (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/18.02.33)**
+
+**[YouTube Vanced 18.01.38 (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/18.01.38)**
+
+**[YouTube Vanced 17.45.36 (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/17.45.36)**
+
+**[YouTube Vanced 17.45.36 (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/17.45.34)**
+
+**[YouTube Vanced 17.43.36 (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/17.43.36)**
+
+**[YouTube Vanced 17.41.34 (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/17.41.34)**
+
+**[YouTube Vanced 17.39.35 (Android 6 & 7) (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/17.39.35)**
+
 # Credits
 
-- inotia00 : build & provide vanced extended builds
+- inotia00 : build & provide vanced extended builds and rvx patches to patch archived release.
