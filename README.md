@@ -65,11 +65,19 @@ Join ReVanced Extended Chat group</p> <a href="https://telegram.me/revanced_exte
 
 **[Download YouTube Vanced 17.33.42 Dark](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Universal.apk)**
 
+**[Download YouTube Vanced 17.28.34 Black](https://github.com/cuynu/ytvancedx/releases/download/17.28.34/YouTube_Vanced_17.28.34_Black_Universal.apk)**
+
+**[Download YouTube Vanced 17.28.34 Dark](https://github.com/cuynu/ytvancedx/releases/download/17.28.34/YouTube_Vanced_17.28.34_Dark_Universal.apk)**
+
 ### YouTube Vanced root variant 
 
 **[Download YouTube Vanced 17.33.42 Black Magisk Module](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)**
 
 **[Download YouTube Vanced 17.33.42 Dark Magisk Module](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)**
+
+### YouTube Music Vanced non-root variant 
+
+**[Download YouTube Music Vanced 5.16.51](https://github.com/cuynu/ytvancedx/releases/download/17.28.34/YouTube_Music_5.16.51_Universal.apk)**
 
 ### YouTube Vanced+ DEVELOPMENT variant : 
 **[Download YouTube Vanced+ 18.28.33 DEVELOPMENT TESTING](https://github.com/cuynu/ytvancedx/releases/download/18.28.33/YouTube.Vanced+.v18.28.33_DEBUGTEST.apk)**
