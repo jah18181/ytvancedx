@@ -2,13 +2,13 @@
 Another YouTube Vanced Unofficial project named YouTube Vanced+ [IN DEVELOPMENT] maintained by [Cuynu](https://github.com/cuynu)
 
 <a href="https://github.com/cuynu/ytvancedx#download">
-<img alt="YouTube Vanced+ logo" src="https://github.com/cuynu/archive/releases/download/vancedx/vancedx_banner.jpeg" width="270" height="150" />
+<img alt="YouTube Vanced+ logo" src="https://github.com/cuynu/archive/releases/download/archive/vancedx_banner.jpeg" width="270" height="150" />
 </a>
 
 </p>
 
 <p align="left">
-    <a href="https://github.com/cuynu/ytvancedx"><img src="https://img.shields.io/github/downloads/cuynu/archive/total?label=View counts&logoColor=%23fff&style=for-the-badge" alt="Badage"></img></a>
+    <a href="https://github.com/cuynu/ytvancedx"><img src="https://img.shields.io/github/downloads/cuynu/archive/archive/total?label=View counts&logoColor=%23fff&style=for-the-badge" alt="Badage"></img></a>
     <p>
     <a href="https://github.com/cuynu/ytvancedx/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/cuynu/ytvancedx?color=brightgreen&label=Latest%20release&logo=android&logoColor=%23fff&style=for-the-badge" alt="Badge"></img></a>
     <a href="https://github.com/cuynu/ytvancedx#download"><img src="https://img.shields.io/github/downloads/cuynu/ytvancedx/total?label=Download&logo=android&logoColor=%23fff&style=for-the-badge" alt="Badge"></img></a>
