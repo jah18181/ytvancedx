@@ -54,11 +54,7 @@ This project was created after discontinuation of Vanced official aswell wars be
 # Telegram channel
 Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedxupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a> 
 
-# Download 
-
-### Notice : Vanced Extended & Vanced has been discontinued and replaced with ReVanced/ReVanced Extended, so if this release won't work, you have switch to ReVanced/ReVanced Extended!
-
-Join ReVanced Extended Chat group</p> <a href="https://telegram.me/revanced_extended_chat" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a> 
+# Download  
 
 ### YouTube Vanced non-root variant
 
@@ -87,7 +83,7 @@ Join ReVanced Extended Chat group</p> <a href="https://telegram.me/revanced_exte
 
 ### Download archived release (RVX)
 
-**Warning : This is old YouTube Vanced build based on ReVanced Extended patches which is deprecated, aswell my worst because it just is ReVanced Extended build with YouTube Vanced branding logo & name. DO NOT REPORT ISSUE WHEN USE THIS BUILD!**
+**WARNING : This is old YouTube Vanced build based on ReVanced Extended patches which is deprecated, aswell my worst because it just is ReVanced Extended build with YouTube Vanced branding logo & name. DO NOT REPORT ISSUE WHEN USE THIS BUILD!**
 
 **[YouTube Vanced 18.21.34 (LAST) (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/18.21.34)**
 
