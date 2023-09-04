@@ -1,5 +1,5 @@
-# YouTube Vanced+ [PAUSED]
-Another YouTube Vanced Unofficial project named YouTube Vanced+ [PAUSED] maintained by [Cuynu](https://github.com/cuynu)
+# YouTube Vanced+ [WIP]
+Another YouTube Vanced Unofficial project named YouTube Vanced+ [WIP] maintained by [Cuynu](https://github.com/cuynu)
 
 <a href="https://github.com/cuynu/ytvancedx#download">
 <img alt="YouTube Vanced+ logo" src="https://github.com/cuynu/archive/releases/download/archive/vancedx_banner.jpeg" width="270" height="150" />
@@ -59,6 +59,8 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedxu
 ### YouTube Vanced non-root variant
 
 **[Download latest version of Vanced MicroG](https://github.com/cuynu/VancedMicroG/releases/latest/download/microg.apk)**
+
+**[YouTube Vanced 18.21.34 (LAST) (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/18.21.34)**
 
 **[Download YouTube Vanced 17.33.42 Black](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Universal.apk)**
 
