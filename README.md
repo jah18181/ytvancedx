@@ -30,7 +30,7 @@ Another YouTube Vanced Unofficial project named YouTube Vanced+ [WIP] maintained
 * [Troubleshoot](#troubleshoot)
 * [Source code](#source-code)
 * [Stargazers over time](#stargazers-over-time)
-* [Donation project](#donations)
+* [Donate and help project development (Not required)](#donations)
 
 # Introduction 
 This project was created after discontinuation of Vanced official aswell wars between Unofficial Vanced and ReVanced Extended. Its not `YouTube Vanced` and just is the CLONE of `YouTube Vanced`. The project are in development and will going release soon as possible!
