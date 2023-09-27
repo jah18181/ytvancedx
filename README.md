@@ -30,6 +30,7 @@ Another YouTube Vanced Unofficial project named YouTube Vanced+ [WIP] maintained
 * [Troubleshoot](#troubleshoot)
 * [Source code](#source-code)
 * [Stargazers over time](#stargazers-over-time)
+* [Donation project](#donations)
 
 # Introduction 
 This project was created after discontinuation of Vanced official aswell wars between Unofficial Vanced and ReVanced Extended. Its not `YouTube Vanced` and just is the CLONE of `YouTube Vanced`. The project are in development and will going release soon as possible!
@@ -184,5 +185,18 @@ If you can't install YouTube Vanced+ in MIUI, try turn off MIUI Optimization in 
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/cuynu/ytvancedx.svg)](https://starchart.cc/cuynu/ytvancedx)
+
+
+## Donations
+**Disclaimer** : **Donation is NOT REQUIRED**, you have the right to decide whether to donate or not, it's your decision. **NO DRAMA AT ALL!**
+
+Currently, no PayPal or international donation method available yet. If you want to donate me, use **Super Thanks** feature on YouTube instead (remember use original YouTube app to use this feature if you are non-rooted.)
+
+<a href="https://m.youtube.com/watch?v=0oClepts_2g">
+<img alt="YouTube Vanced+ logo" src="https://github.com/cuynu/cuynu/assets/90895715/ccbfec4a-a0e1-4509-8471-3368a4eed9b7" width="400" height="410" />
+</a>
+
+## Vietnam inland donation :
+**Chuyển khoản tới Momo & MB : 0395923562**
 
 ## [Go back to top of this page](#youtube-vanced-in-development)
