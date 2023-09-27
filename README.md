@@ -51,8 +51,13 @@ This project was created after discontinuation of Vanced official aswell wars be
 - Enable YouTube Premium header (not actually enable Premium features!)
 - Many more...
 
-# Telegram channel
-Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedxupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a> 
+# Community
+Join YouTube Vanced+ Community </p> <a href="https://telegram.me/ytvancedxupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a> 
+<p align="left">
+  <a href="https://discord.gg/U7z2hsxbyM">
+    <img alt="Discord" src="https://img.shields.io/discord/1077997663628296333?color=%2300C853&label=VancedX%20Server&logo=discord&logoColor=%2300C853&style=for-the-badge">
+  </a>
+</p>
 
 # Download  
 
