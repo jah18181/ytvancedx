@@ -63,6 +63,9 @@ Join YouTube Vanced+ Community </p> <a href="https://telegram.me/ytvancedxupdate
 # Download  
 
 ### YouTube Vanced+ non-root variant 
+
+**[Download latest version of Vanced MicroG](https://github.com/cuynu/VancedMicroG/releases/latest/download/microg.apk)**
+
 Not yet right now! wait for we implement, check for implement status in community above~~
 
 ### YouTube Vanced+ root variant (Magisk/KSU) 
@@ -70,32 +73,34 @@ Not yet right now! wait for we implement, check for implement status in communit
 
 ### YouTube Vanced non-root variant 
 
-These version are deprecated but its still works
+These version are deprecated but still works, this will get removed here in future after Vanced+ finally launch.
 
 **[Download latest version of Vanced MicroG](https://github.com/cuynu/VancedMicroG/releases/latest/download/microg.apk)**
 
 **[YouTube Vanced 18.21.34 (LAST) (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/18.21.34)**
 
-**[Download YouTube Vanced 17.33.42 Black](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Universal.apk)**
+**[YouTube Vanced 18.02.33 (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/18.02.33)**
 
-**[Download YouTube Vanced 17.33.42 Dark](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Universal.apk)**
+**[YouTube Vanced 18.01.38 (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/18.01.38)**
 
-**[Download YouTube Vanced 17.28.34 Black](https://github.com/cuynu/ytvancedx/releases/download/17.28.34/YouTube_Vanced_17.28.34_Black_Universal.apk)**
+**[YouTube Vanced 17.45.36 (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/17.45.36)**
 
-**[Download YouTube Vanced 17.28.34 Dark](https://github.com/cuynu/ytvancedx/releases/download/17.28.34/YouTube_Vanced_17.28.34_Dark_Universal.apk)**
+**[YouTube Vanced 17.39.35 (Android 6 & 7) (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/17.39.35)**
 
-### YouTube Vanced root variant 
+### YouTube Vanced root variant (Magisk only)
 
-**[Download YouTube Vanced 17.33.42 Black Magisk Module](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)**
+**[Download YouTube Vanced 18.01.38 Black Magisk Module](https://github.com/cuynu/archive/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Black_MagiskModule.zip)**
 
-**[Download YouTube Vanced 17.33.42 Dark Magisk Module](https://github.com/cuynu/ytvancedx/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)**
+**[Download YouTube Vanced 18.01.38 Dark Magisk Module](https://github.com/cuynu/archive/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Dark_MagiskModule.zip)**
+
+**[Download YouTube Vanced 18.01.38 Monet Magisk Module (Android 12+)](https://github.com/cuynu/archive/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Monet_MagiskModule.zip)**
 
 ### YouTube Music Vanced non-root variant 
 
-**[Download YouTube Music Vanced 5.16.51](https://github.com/cuynu/ytvancedx/releases/download/17.28.34/YouTube_Music_5.16.51_Universal.apk)**
+**[Download YouTube Music Vanced 5.39.52](https://github.com/cuynu/archive/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_Universal.apk)**
 
 ### YouTube Vanced+ DEVELOPMENT variant : 
-**[Download YouTube Vanced+ 18.28.33 DEVELOPMENT TESTING](https://github.com/cuynu/ytvancedx/releases/download/18.28.33/YouTube.Vanced+.v18.28.33_DEBUGTEST.apk)**
+~**[Download YouTube Vanced+ 18.28.33 DEVELOPMENT TESTING](https://github.com/cuynu/ytvancedx/releases/download/18.28.33/YouTube.Vanced+.v18.28.33_DEBUGTEST.apk)**~
 
 ### Download archived release (RVX)
 
