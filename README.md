@@ -56,13 +56,21 @@ This project was created after discontinuation of Vanced official aswell wars be
 Join YouTube Vanced+ Community </p> <a href="https://telegram.me/ytvancedxupdates" ><img src="https://img.shields.io/badge/YouTube Vanced+ Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a> 
 <p align="left">
   <a href="https://discord.gg/U7z2hsxbyM">
-    <img alt="Discord" src="https://img.shields.io/discord/1077997663628296333?color=%2300C853&label=VancedX%20Server&logo=discord&logoColor=%2300C853&style=for-the-badge">
+    <img alt="Discord" src="https://img.shields.io/discord/1077997663628296333?color=%2300C853&label=YouTube%20VancedX%20Server&logo=discord&logoColor=%2300C853&style=for-the-badge">
   </a>
 </p>
 
 # Download  
 
-### YouTube Vanced non-root variant
+### YouTube Vanced+ non-root variant 
+Not yet right now! wait for we implement, check for implement status in community~~
+
+### YouTube Vanced+ root variant (Magisk/KSU) 
+Not yet right now! wait for we implement, check for implement in community~~
+
+### YouTube Vanced non-root variant 
+
+These version are deprecated but its still works
 
 **[Download latest version of Vanced MicroG](https://github.com/cuynu/VancedMicroG/releases/latest/download/microg.apk)**
 
@@ -134,7 +142,7 @@ Join YouTube Vanced+ Community </p> <a href="https://telegram.me/ytvancedxupdate
 **Video playback not working (buffer issue)**
 
 Solution for YouTube Vanced+ (18.25.39+) :
-- Enable `Fix video playback buffer issue` option on Vanced settings -> Video. Buffering problem should fix.
+- Enable `Fix video playback buffer issue` option on Vanced settings -> Video settings. Buffering problem should fix.
 
 Solution for old YouTube Vanced (RVX) 17.34.36/17.39.35/18.02.33/18.21.34 :
 - Enable `Enable protobuf spoof` option on Vanced settings -> Video (If `Enable protobuf spoof` option is enabled by default, re-enable `Enable protobuf spoof` option. Buffering problem should fix.
