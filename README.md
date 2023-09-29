@@ -63,10 +63,10 @@ Join YouTube Vanced+ Community </p> <a href="https://telegram.me/ytvancedxupdate
 # Download  
 
 ### YouTube Vanced+ non-root variant 
-Not yet right now! wait for we implement, check for implement status in community~~
+Not yet right now! wait for we implement, check for implement status in community above~~
 
 ### YouTube Vanced+ root variant (Magisk/KSU) 
-Not yet right now! wait for we implement, check for implement in community~~
+Not yet right now! wait for we implement, check for implement status in community above~~
 
 ### YouTube Vanced non-root variant 
 
