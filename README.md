@@ -126,7 +126,7 @@ These version are deprecated but still works, this will get removed here in futu
 
 ## Source code
 
-**Official YouTube app itself are proprietary and closed source, we can't access YouTube source code because its are private which only Google/YouTube developer can see and modify it. So we can only patch and modify YouTube from published apk. Here is source code for modified dalvik classes dexs and additional modification/features:**
+**Official YouTube app itself are proprietary and closed source, we can't access YouTube source code because its are private which only Google/YouTube developer can see its original code in kotlin and java which is not obfuscated and modify it. So we can only patch and modify YouTube from published compiled binary apk which is extremely obfuscated by Google/YouTube developer when they compiling YouTube app. Here is source code for what was modified and all of Vanced+/Vanced features, again, DONT ask for YouTube app source code! :**
 
 **Warning : Repository : [ytvancedx](https://github.com/cuynu/ytvancedx) does not store Vanced+ source code !**
 
