@@ -53,7 +53,7 @@ This project was created after discontinuation of Vanced official aswell wars be
 - Many more...
 
 # Community/Updates channel
-Join YouTube Vanced+ Community/Updates channel to receive patches & release updates and discuss with other people on us community! 
+Join YouTube Vanced+ Community/Updates channel to receive patches & release & news updates and discuss with other people on us community! 
 </p> <a href="https://telegram.me/ytvancedxupdates" ><img src="https://img.shields.io/badge/YouTube Vanced+ Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a> 
 <p align="left">
   <a href="https://discord.gg/U7z2hsxbyM">
