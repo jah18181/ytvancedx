@@ -71,7 +71,7 @@ Not yet right now! wait for we implement, check for implement status in communit
 ### YouTube Vanced+ root variant (Magisk/KSU) 
 Not yet right now! wait for we implement, check for implement status in community above~~
 
-### YouTube Vanced non-root variant 
+### YouTube Vanced non-root variant (DEPRECATED)
 
 These version are deprecated but still works, this will get removed here in future after Vanced+ finally launch.
 
@@ -87,7 +87,7 @@ These version are deprecated but still works, this will get removed here in futu
 
 **[YouTube Vanced 17.39.35 (Android 6 & 7) (RVX) (ARCHIVED)](https://github.com/cuynu/archive/releases/tag/17.39.35)**
 
-### YouTube Vanced root variant (Magisk only)
+### YouTube Vanced root variant (Magisk only) (DEPRECATED)
 
 **[Download YouTube Vanced 18.01.38 Black Magisk Module](https://github.com/cuynu/archive/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Black_MagiskModule.zip)**
 
@@ -95,14 +95,14 @@ These version are deprecated but still works, this will get removed here in futu
 
 **[Download YouTube Vanced 18.01.38 Monet Magisk Module (Android 12+)](https://github.com/cuynu/archive/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Monet_MagiskModule.zip)**
 
-### YouTube Music Vanced non-root variant 
+### YouTube Music Vanced non-root variant (DEPRECATED)
 
 **[Download YouTube Music Vanced 5.39.52](https://github.com/cuynu/archive/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_Universal.apk)**
 
 ### YouTube Vanced+ DEVELOPMENT variant : 
 ~**[Download YouTube Vanced+ 18.28.33 DEVELOPMENT TESTING](https://github.com/cuynu/ytvancedx/releases/download/18.28.33/YouTube.Vanced+.v18.28.33_DEBUGTEST.apk)**~
 
-### Download archived release (RVX)
+### Download archived release (RVX) (DEPRECATED)
 
 **WARNING : This is old YouTube Vanced build based on ReVanced Extended patches which is deprecated, aswell my worst because it just is ReVanced Extended build with YouTube Vanced branding logo & name. DO NOT REPORT ISSUE WHEN USE THIS BUILD!**
 
