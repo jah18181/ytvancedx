@@ -192,9 +192,9 @@ If you can't install YouTube Vanced+ in MIUI, try turn off MIUI Optimization in 
 
 **[ApkTool](https://ibotpeaches.github.io/Apktool/)** : Reverse Engineering tool
 
-**Android Studio/IntelliJ IDEA : IDE to code and implement YouTube Vanced+**
+**[JadX](https://github.com/skylot/jadx)** : Dex (Smali) to Java decompiler (not too helpful as this doesnt actually decompile to right original Java/Kotlin code)
 
-**[28Tech](https://www.youtube.com/playlist?list=PLux-_phi0Rz2TB5D16sJzy3MgOht3IlND)** : Help me learn C programming language to know the basic things of programming language
+**Android Studio/IntelliJ IDEA : IDE to code and implement YouTube Vanced+**
 
 **[Gà Lại Lập Trình](https://www.youtube.com/@GaLaiLapTrinh/playlists)** : Help me learn Java and Kotlin programming language used to implement YouTube Vanced+ and other Android apps
 
