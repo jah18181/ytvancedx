@@ -125,9 +125,15 @@ These version are deprecated but its still works
 
 **Warning : Repository : [ytvancedx](https://github.com/cuynu/ytvancedx) does not store Vanced+ source code !**
 
-#### [View source code of YouTube Vanced+](https://github.com/cuynu/youtube)
+#### [View source code of YouTube Vanced+ (patches)](https://github.com/cuynu/vancedx-patches)
 
-#### [View source code of old YouTube Vanced (RVX)](https://github.com/cuynu/oldvanced-patches-rvx)
+#### [View source code of YouTube Vanced+ (integrations)](https://github.com/cuynu/vancedx-integrations)
+
+#### [View source code of YouTube Vanced+ (cli)](https://github.com/cuynu/vancedx-cli)
+
+#### [View source code of old YouTube Vanced (RVX) (patches)](https://github.com/cuynu/oldvanced-patches-rvx)
+
+#### [View source code of old YouTube Vanced (RVX) (integrations)](https://github.com/cuynu/oldvanced-integrations-rvx)
 
 ### Known issues 
 
