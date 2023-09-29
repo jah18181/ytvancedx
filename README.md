@@ -194,11 +194,11 @@ If you can't install YouTube Vanced+ in MIUI, try turn off MIUI Optimization in 
 
 **[JadX](https://github.com/skylot/jadx)** : Dex (Smali) to Java decompiler (not too helpful as this doesnt actually decompile to right original Java/Kotlin code)
 
-**Android Studio/IntelliJ IDEA : IDE to code and implement YouTube Vanced+**
-
-**[Gà Lại Lập Trình](https://www.youtube.com/@GaLaiLapTrinh/playlists)** : Help me learn Java and Kotlin programming language used to implement YouTube Vanced+ and other Android apps
+**Android Studio/IntelliJ IDEA : IDE to write and implement YouTube Vanced+**
 
 **[inotia00](https://github.com/inotia00)** : Old YouTube Vanced (RVX) based patches (17.34.36-18.21.34)
+
+**[ReVanced Team](https://github.com/revanced)** : ReVanced Team
 
 
 ## Stargazers over time
