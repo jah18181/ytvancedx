@@ -2,5 +2,5 @@
 
 ## For source code, please look at these repository : 
 
-## [cuynu/src-vancedx](https://github.com/cuynu/src-vancedx) 
-## [cuynu/src-vancedx-integrations](https://github.com/cuynu/src-vancedx-integrations)
+## [cuynu/vancedx-patches](https://github.com/cuynu/vancedx-patches) 
+## [cuynu/vancedx-integrations](https://github.com/cuynu/vancedx-integrations)
