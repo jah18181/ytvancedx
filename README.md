@@ -7,7 +7,10 @@ Another YouTube Vanced Unofficial project named YouTube Vanced+ [WIP] maintained
 
 </p>
 
-<p align="left">
+ <p align="left">
+    <a href="https://github.com/sponsors/cuynu"><img src="https://img.shields.io/badge/Support%20Project-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square" alt="Badage"></img></a>
+
+ <p align="left">
     <a href="https://github.com/cuynu/ytvancedx"><img src="https://img.shields.io/github/downloads/cuynu/archive/archive/total?label=View counts&logoColor=%23fff&style=for-the-badge" alt="Badage"></img></a>
     <a href="https://github.com/cuynu/ytvancedx/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/cuynu/ytvancedx?color=brightgreen&label=Latest%20release&logo=android&logoColor=%23fff&style=for-the-badge" alt="Badge"></img></a>
     <p>
@@ -25,8 +28,6 @@ Another YouTube Vanced Unofficial project named YouTube Vanced+ [WIP] maintained
 * [Features](#features)
 * [Known issues](#known-issues)
 * [Download YouTube Vanced apk](#download)
-* [Download YouTube Vanced+ DEVELOPMENT variant](#youtube-vanced-development-variant-)
-* [Download YouTube Vanced RVX archived release](#download-archived-release-rvx)
 * [Troubleshoot](#troubleshoot)
 * [Source code](#source-code)
 * [Stargazers over time](#stargazers-over-time)
@@ -210,11 +211,8 @@ If you can't install YouTube Vanced+ in MIUI, try turn off MIUI Optimization in 
 ## Donations
 **Disclaimer** : **Donation is NOT REQUIRED**, you have the right to decide whether to donate or not, it's your decision. **NO DRAMA AT ALL!**
 
-Currently, no PayPal or international donation method available yet. If you want to donate me, use **Super Thanks** feature on YouTube instead (remember use original YouTube app to use this feature if you are non-rooted.)
-
-<a href="https://m.youtube.com/watch?v=0oClepts_2g">
-<img alt="YouTube Vanced+ logo" src="https://github.com/cuynu/cuynu/assets/90895715/ccbfec4a-a0e1-4509-8471-3368a4eed9b7" width="300" height="300" />
-</a>
+ <p align="left">
+    <a href="https://github.com/sponsors/cuynu"><img src="https://img.shields.io/badge/Support%20Project-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square" alt="Badage"></img></a>
 
 ## Vietnam inland donation :
 **Chuyển khoản tới Momo & MB : 0395923562**
