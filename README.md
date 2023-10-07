@@ -75,7 +75,7 @@ Not yet right now! wait for we implement, check for implement status in communit
 
 ### YouTube Vanced non-root variant (DEPRECATED)
 
-These version are deprecated but still works, this will get removed here in future after Vanced+ finally launch.
+These version are deprecated but still works, this will get removed here in future after Vanced+ finally launch!
 
 **[Download latest version of Vanced MicroG](https://github.com/cuynu/VancedMicroG/releases/latest/download/microg.apk)**
 
